@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Ruchitha-reddy06
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Ruchitha-reddy06/Ruchitha-reddy06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi,I'm Currently exploring about DevOps Engineer.
+- 🌱 I’m currently learning and uoskilling myself.
+- 💞️ love to learning new things.
+- 📫 Reach me at Gmail-yenuguruchitha780@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Connect with me at Linkedin-linkedin.com/in/yenugu-ruchitha-888234357
+- Love to learning new things
