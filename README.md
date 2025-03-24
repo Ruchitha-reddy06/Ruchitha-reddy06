@@ -4,4 +4,4 @@
 - 📫 Reach me at Gmail-yenuguruchitha780@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Connect with me at Linkedin-linkedin.com/in/yenugu-ruchitha-888234357
-- Love to learning new things
+- Love to learning new things!!
