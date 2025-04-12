@@ -1,5 +1,5 @@
 - 👋 Hi,I'm Currently exploring about DevOps Engineer.
-- 🌱 I’m currently learning and uoskilling myself.
+- 🌱 I’m currently learning and upskilling myself.
 - 💞️ love to learning new things.
 - 📫 Reach me at Gmail-yenuguruchitha780@gmail.com
 - 😄 Pronouns: she/her
